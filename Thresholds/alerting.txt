@@ -1,0 +1,18 @@
+X,Y,hightrigger,lowtrigger
+enteremailhere,enterPasswordhere
+
+# Instructions 
+
+Just enter the high and low value you wish to be alerted on such as:
+
+60,40,hightrigger,lowtrigger 
+
+To be alerted if your balance hits 60 or drops below 40. 
+## Important: please don’t remove commas, and keep the formatting. 
+
+# ENTER YOUR EMAIL DETAILS  
+
+On the second line jus fill in your email details such as   
+email123@gmail.com,mypassword  
+
+## Important: please don’t remove commas, and keep the formatting. 
