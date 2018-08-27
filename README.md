@@ -3,6 +3,8 @@
 
 ## Overview  
 
+![coinbaseimage](https://www.coinbase.com/assets/press/coinbase-logos/coinbase-a673b0735e63d6ea6513e464a83c41165fca9b99b2216b5de70e5187356dd47d.png)
+
 HI! This code which you can clone or download to your local machine so far can do a few things:  
 1. Email Alert service for when your portfolio hits a certain high/low which you can configure.  
 2. Print your CoinBase Balances to console.  
